@@ -1,0 +1,9 @@
+
+.idea/
+*.log
+node_modules
+/tmp/
+/package-lock.json
+/stats.json
+/build/
+/temp/
